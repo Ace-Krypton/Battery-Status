@@ -1,3 +1,3 @@
 # Battery-Status
 
-Simple battery-status application for linux
+Simple battery-status script for linux
